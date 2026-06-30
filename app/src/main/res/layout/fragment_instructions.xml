@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F5F5F5">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="24dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="1. הרשמה והתחברות"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="#4A90D9"
+            android:layout_marginBottom="8dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="• פתח את האפליקציה ולחץ על הירשם כדי ליצור חשבון חדש.\n• הזן שם משתמש, מספר טלפון וסיסמה.\n• לחץ על שלח קוד אימות — תקבל SMS עם קוד בן 6 ספרות.\n• הזן את הקוד ולחץ הירשם.\n• לאחר ההרשמה התחבר עם שם המשתמש והסיסמה שלך."
+            android:textSize="15sp"
+            android:textColor="#333333"
+            android:lineSpacingMultiplier="1.5"
+            android:layout_marginBottom="20dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="2. יצירת רשימה משותפת"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="#4A90D9"
+            android:layout_marginBottom="8dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="• לחץ על הגדר רשימה במסך הראשי.\n• הזן שם לרשימה.\n• הזן את מספר הטלפון של החבר שאיתו תרצה לשתף את הרשימה.\n• לחץ על צור רשימה — תישלח הזמנה ל-SMS לחבר שלך."
+            android:textSize="15sp"
+            android:textColor="#333333"
+            android:lineSpacingMultiplier="1.5"
+            android:layout_marginBottom="20dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="3. קבלת הזמנה לרשימה"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="#4A90D9"
+            android:layout_marginBottom="8dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="• כאשר מישהו מזמין אותך לרשימה תקבל התראה.\n• תראה מספר אדום על כפתור הפעמון בפינה הימנית העליונה.\n• לחץ על הפעמון כדי לראות את ההזמנה.\n• לחץ קבל כדי להצטרף לרשימה או דחה כדי לסרב."
+            android:textSize="15sp"
+            android:textColor="#333333"
+            android:lineSpacingMultiplier="1.5"
+            android:layout_marginBottom="20dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="4. ניהול הרשימה"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="#4A90D9"
+            android:layout_marginBottom="8dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="• לחץ על צפה ברשימה כדי לראות את כל הרשימות שלך.\n• לחץ על רשימה כדי לפתוח אותה.\n• הוסף פריטים בשדה הטקסט למטה ולחץ הוסף.\n• כל פריט שתוסיף יישלח אוטומטית לחבר שלך ב-SMS.\n• לחץ על כפתור המחיקה האדום ליד פריט כדי להסיר אותו."
+            android:textSize="15sp"
+            android:textColor="#333333"
+            android:lineSpacingMultiplier="1.5"
+            android:layout_marginBottom="20dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="5. מחיקת רשימה"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="#4A90D9"
+            android:layout_marginBottom="8dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="• במסך רשימת הרשימות לחץ על כפתור המחיקה האדום ליד שם הרשימה.\n• הרשימה וכל הפריטים שבה יימחקו מהמכשיר שלך."
+            android:textSize="15sp"
+            android:textColor="#333333"
+            android:lineSpacingMultiplier="1.5"/>
+
+    </LinearLayout>
+
+</ScrollView>
