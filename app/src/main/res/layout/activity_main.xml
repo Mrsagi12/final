@@ -2,7 +2,7 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#F5F5F5"
+    android:background="@drawable/signup"
     android:padding="32dp">
 
     <FrameLayout
@@ -45,7 +45,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="הגדר רשימה"
-            android:backgroundTint="#4A90D9"
+            android:backgroundTint="#33000000"
             android:textColor="#FFFFFF"
             android:textSize="16sp"
             android:padding="14dp"
@@ -56,7 +56,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="צפה ברשימה"
-            android:backgroundTint="#4A90D9"
+            android:backgroundTint="#33000000"
             android:textColor="#FFFFFF"
             android:textSize="16sp"
             android:padding="14dp"
@@ -67,7 +67,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="הוראות"
-            android:backgroundTint="#4A90D9"
+            android:backgroundTint="#33000000"
             android:textColor="#FFFFFF"
             android:textSize="16sp"
             android:padding="14dp"
@@ -78,7 +78,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="אודות"
-            android:backgroundTint="#4A90D9"
+            android:backgroundTint="#33000000"
             android:textColor="#FFFFFF"
             android:textSize="16sp"
             android:padding="14dp"/>

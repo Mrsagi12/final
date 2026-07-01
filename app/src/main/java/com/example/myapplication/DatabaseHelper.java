@@ -9,7 +9,7 @@ import android.database.sqlite.SQLiteOpenHelper;
 public class DatabaseHelper extends SQLiteOpenHelper {
 
     // Name and version of the database file stored on the device
-    private static final String DATABASE_NAME = "app3.db";
+    private static final String DATABASE_NAME = "app4.db";
     private static final int DATABASE_VERSION = 3;
 
     // ---- Users table: stores registered accounts ----
